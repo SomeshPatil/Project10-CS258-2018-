@@ -1,0 +1,937 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"visible": true,
+					"defaultDiagram": true
+				}
+			],
+			"visibility": "public"
+		},
+		{
+			"_type": "UMLCollaboration",
+			"_id": "AAAAAAFhlFfG2MtAt+g=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Collaboration1",
+			"ownedElements": [
+				{
+					"_type": "UMLCompositeStructureDiagram",
+					"_id": "AAAAAAFhlFfG2stBoyQ=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "Composite Structures1",
+					"visible": true,
+					"defaultDiagram": false,
+					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFhn3zzF6EfiBA=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 488,
+							"top": 736,
+							"width": 216,
+							"height": 120,
+							"autoResize": false
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn3z8E6FGybI=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 216,
+							"top": 880,
+							"width": 60,
+							"height": 15,
+							"autoResize": false,
+							"wordWrap": true
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFhn31/oKJ4vPQ=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 496,
+							"top": 104,
+							"width": 232,
+							"height": 96,
+							"autoResize": false
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn32QoqL0c/A=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 584,
+							"top": 136,
+							"width": 60,
+							"height": 25,
+							"autoResize": false,
+							"text": "UIDAI",
+							"wordWrap": true
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAFhn35Jj6Vf/cA=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 488,
+							"top": 376,
+							"width": 232,
+							"height": 168,
+							"autoResize": false
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFhn35tLwSTy3Q=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 888,
+							"top": 296,
+							"width": 232,
+							"height": 96,
+							"autoResize": false
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn36R+qV4yPA=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 928,
+							"top": 312,
+							"width": 145,
+							"height": 64,
+							"autoResize": false,
+							"text": "MP GOVT EDUCATION DEPT",
+							"wordWrap": true
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFhn38IgwSUEb4=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 880,
+							"top": 592,
+							"width": 232,
+							"height": 96,
+							"autoResize": false
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn38jH6WXGmM=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 944,
+							"top": 616,
+							"width": 93,
+							"height": 51,
+							"autoResize": false,
+							"text": "MP GOVT Administration",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn394WaWvAYQ=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 520,
+							"top": 768,
+							"width": 145,
+							"height": 57,
+							"autoResize": false,
+							"text": "MP GOVT FOOD AND CIVIL SUPPLIES",
+							"wordWrap": true
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFhn3++JQSVlZ8=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 112,
+							"top": 584,
+							"width": 232,
+							"height": 96,
+							"autoResize": false
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn4BPLKXPBRY=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 176,
+							"top": 616,
+							"width": 62,
+							"height": 38,
+							"autoResize": false,
+							"text": "Census Authority",
+							"wordWrap": true
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFhn4CDPQSWWi0=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 104,
+							"top": 288,
+							"width": 232,
+							"height": 96,
+							"autoResize": false
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn4CaqaXqLIo=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 168,
+							"top": 304,
+							"width": 76,
+							"height": 64,
+							"autoResize": false,
+							"text": "MP GOVT FINANACE DEPT",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFhn4EJ8KXvrq0=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 576,
+							"top": 432,
+							"width": 62,
+							"height": 38,
+							"autoResize": false,
+							"text": "Samagra Portal",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFhn4HG26X1R+w=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFhn35Jj6Vf/cA="
+							},
+							"tail": {
+								"$ref": "AAAAAAFhn394WaWvAYQ="
+							},
+							"lineStyle": 1,
+							"points": "593:767;600:544"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFhn4Hje6X4ChA=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFhn35Jj6Vf/cA="
+							},
+							"tail": {
+								"$ref": "AAAAAAFhn38jH6WXGmM="
+							},
+							"lineStyle": 1,
+							"points": "943:619;720:514"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFhn4HwAaX7YOA=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFhn35Jj6Vf/cA="
+							},
+							"tail": {
+								"$ref": "AAAAAAFhn36R+qV4yPA="
+							},
+							"lineStyle": 1,
+							"points": "927:364;720:425"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFhn4H8TKX+mps=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFhn32QoqL0c/A="
+							},
+							"tail": {
+								"$ref": "AAAAAAFhn35Jj6Vf/cA="
+							},
+							"lineStyle": 1,
+							"points": "606:375;613:161"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFhn4KO56YO3lo=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFhn4CDPQSWWi0="
+							},
+							"tail": {
+								"$ref": "AAAAAAFhn35Jj6Vf/cA="
+							},
+							"lineStyle": 1,
+							"points": "487:422;336:373"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFhn4KiLKYRo80=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFfG2stBoyQ="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFhn35Jj6Vf/cA="
+							},
+							"tail": {
+								"$ref": "AAAAAAFhn3++JQSVlZ8="
+							},
+							"lineStyle": 1,
+							"points": "332:583;487:512"
+						}
+					]
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFkQmstFJJk=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "UIDAI",
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFk/KMtid5k=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "MPGOV Education Dept.",
+					"ownedElements": [
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF8NjM7E1KE=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFk/KMtid5k="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF8NjM7FHjs=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF8NjM7E1KE="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFk/KMtid5k="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF8Njc7Gy3A=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF8NjM7E1KE="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						}
+					],
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFlYest/rWE=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "MPGOV Finance Dept.",
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFlse8uclPE=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "Ministry of Home Affairs",
+					"ownedElements": [
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF5QuswxgS4=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFlse8uclPE="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF5Qu8wyrWo=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF5QuswxgS4="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFlse8uclPE="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF5Qu8wzd88=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF5QuswxgS4="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						},
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF7Ph81kNh0=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFlse8uclPE="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF7PiM1lEYA=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF7Ph81kNh0="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFlse8uclPE="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF7PiM1m+w4=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF7Ph81kNh0="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						}
+					],
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFl3Rcu598Q=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "MPGOV Food Supplies Dept.",
+					"ownedElements": [
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF8Ads5U7SE=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFl3Rcu598Q="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF8Ad85VMfc=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF8Ads5U7SE="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFl3Rcu598Q="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF8Ad85WWH4=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF8Ads5U7SE="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						}
+					],
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFmJvcvWqVw=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "MPGOV Administration",
+					"ownedElements": [
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF7y083zwiA=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFmJvcvWqVw="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF7y08300HM=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF7y083zwiA="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFmJvcvWqVw="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF7y1M31RN0=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF7y083zwiA="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						}
+					],
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAFhlFm+esvzM4g=",
+					"_parent": {
+						"$ref": "AAAAAAFhlFfG2MtAt+g="
+					},
+					"name": "Samagra Portal",
+					"ownedElements": [
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF5zscx9z9M=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFm+esvzM4g="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF5zscx+pyA=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF5zscx9z9M="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF5zscx/KMo=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF5zscx9z9M="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFlYest/rWE="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						},
+						{
+							"_type": "UMLAssociation",
+							"_id": "AAAAAAFhlF8a6s9D2Ac=",
+							"_parent": {
+								"$ref": "AAAAAAFhlFm+esvzM4g="
+							},
+							"end1": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF8a6s9E/nk=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF8a6s9D2Ac="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFm+esvzM4g="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"end2": {
+								"_type": "UMLAssociationEnd",
+								"_id": "AAAAAAFhlF8a6s9F1ns=",
+								"_parent": {
+									"$ref": "AAAAAAFhlF8a6s9D2Ac="
+								},
+								"reference": {
+									"$ref": "AAAAAAFhlFkQmstFJJk="
+								},
+								"visibility": "public",
+								"navigable": true,
+								"aggregation": "none",
+								"isReadOnly": false,
+								"isOrdered": false,
+								"isUnique": false,
+								"isDerived": false,
+								"isID": false
+							},
+							"visibility": "public",
+							"isDerived": false
+						}
+					],
+					"visibility": "public",
+					"isAbstract": false,
+					"isFinalSpecialization": false,
+					"isLeaf": false
+				}
+			],
+			"visibility": "public",
+			"isAbstract": false,
+			"isFinalSpecialization": false,
+			"isLeaf": false
+		}
+	]
+}
